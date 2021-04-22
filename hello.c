@@ -1,8 +1,8 @@
 #include<stdio.h>
 void main()
 {
-printf("hello\n");
-
+printf("Hello\n");
+printf("whats up? git \n i will tryto unerstand you\n ");
 
 
 }
